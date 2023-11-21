@@ -6,8 +6,7 @@ This repo contains Machine Learning Internship tasks by NeuroNexus Innovations, 
 * During the first task of the internship, my primary objective was to construct a 
 robust classification model for predicting movie genres based on
  the IMDB dataset, 
-accessible at \
- [Dataset Link1](https://www.kaggle.com/datasets/hijest/genre-classification-dataset-imdb).
+accessible at [dataset](https://www.kaggle.com/datasets/hijest/genre-classification-dataset-imdb).
 * To achieve this, I systematically implemented and evaluated several machine learning algorithms.The algorithms employed in this endeavor included 
     * Multinomial Naive Bayes
     * Support Vector Machine
