@@ -2,10 +2,21 @@
 This repo contains Machine Learning Internship tasks by NeuroNexus Innovations, NeuroNexus Innovations is a beacon of technological advancement in the realm of IT services and Artificial Intelligence.
 
 ## Task 1 : Movie Genre Classification
-* Create a machine learning model that can predict the genre of a movie based on its plot summary or
-other textual information. You can use techniques like TF-IDF or word embeddings with classifiers such
-as Naive Bayes, Logistic Regression, or Support Vector Machines.
-* Dataset Link : https://www.kaggle.com/datasets/hijest/genre-classification-dataset-imdb 
+### Description
+* During the first task of the internship, my primary objective was to construct a 
+robust classification model for predicting movie genres based on
+ the IMDB dataset, 
+accessible at \
+ [Dataset Link1](https://www.kaggle.com/datasets/hijest/genre-classification-dataset-imdb).
+* To achieve this, I systematically implemented and evaluated several machine learning algorithms.The algorithms employed in this endeavor included 
+    * Multinomial Naive Bayes
+    * Support Vector Machine
+    * Logistic Regression 
+    * RandomForest
+   
+Each algorithm was meticulously chosen and fine-tuned to optimize its performance in the context of movie genre classification.
+
+* By utilizing a diverse set of machine learning approaches, the goal was to ascertain which algorithm or combination there of yielded the most accurate and reliable predictions for the given dataset. This comprehensive exploration aimed to enhance the overall classification model and contribute valuable insights.
 
 
 ## Task 2 : Credit Card Fraud Detection
