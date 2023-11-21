@@ -8,6 +8,6 @@ The algorithms employed in this endeavor included
 * RandomForest
 * Fully Connected Deep Neural Network
 
-By utilizing a diverse set of machine learning approaches, the goal was to ascertain which algorithm or combination there of yielded the most accurate and reliable predictions for the given dataset. This comprehensive exploration aimed to enhance the overall classification model and contribute valuable insights.
+By employing a varied range of machine learning techniques, the objective was to determine the algorithm or combination that produced the most accurate and dependable predictions for the provided dataset. This thorough exploration sought to improve the overall classification model and provide valuable insights.
 
 The Decision Tree and Random Forest algorithms demonstrated high accuracy on both training and testing datasets. Consequently, I aimed to enhance model generalization by employing a Fully Connected Deep Neural Network. This approach yielded a notable and more generalized fit for the data, effectively detecting both fraudulent and non-fraudulent transactions.
